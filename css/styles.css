@@ -397,7 +397,6 @@ header {
 .form-item-checkbox {
 	margin-bottom: 0;
 
-	font-size: 14px;
 	line-height: 1.71;
 	letter-spacing: 0.03em;
 }
@@ -631,7 +630,6 @@ header {
 .social-title {
 	margin-bottom: 20px;
 	font-weight: 700;
-	font-size: 14px;
 	line-height: 1.15;
 	letter-spacing: 0.03em;
 	text-transform: uppercase;
